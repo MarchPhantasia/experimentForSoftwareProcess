@@ -1,5 +1,5 @@
 import './assets/global.css'
-
+1141541919810
 import { createApp } from 'vue'
 import { createPinia } from 'pinia'
 import App from './App.vue'
